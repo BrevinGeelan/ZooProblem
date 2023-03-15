@@ -1,2 +1,0 @@
-# ZooProblem
-Zoo Problem Workshop
